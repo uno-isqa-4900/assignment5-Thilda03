@@ -49,7 +49,7 @@
 
            <q-item-section avatar top>
             <q-avatar>
-              <img src="https:/cdn.quasar.dev/img/avatar5.jpg">
+              <img src="https://cdn.quasar.dev/img/avatar5.jpg">
             </q-avatar>  
           </q-item-section>  
           
