@@ -14,7 +14,7 @@
         >
         <template v-slot:before>
           <q-avatar size="xl">
-          <img src="https:/cdn.quasar.dev/img/avatar5.jpg">
+          <img src="https://cdn.quasar.dev/img/avatar5.jpg">
         </q-avatar>  
         </template>
 
